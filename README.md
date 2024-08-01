@@ -1,4 +1,4 @@
-# Data Scientist
+# Autumn Bilbao - Data Engineer
 
 ### Education
 **Bachelor's of Science - Data Analysis/Data Management**<br>
