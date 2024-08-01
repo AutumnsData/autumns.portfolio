@@ -9,7 +9,7 @@ Bachelor's of Science - Environmental Science
 Minor - Project Management
 
 ### Work Experience
-*Project Support Data Administrator* - **Kaeser Compressors**
+*Project Support Data Administrator* - **Kaeser Compressors**<br>
 Mar 2020 - Present (Remote)
 - Developed and maintained sales and quote data reports and dashboards, utilizing sophisticated spreadsheet skills to deliver critical data insights to stakeholders, significantly enhancing decision-making transparency and impact.
 - Responded swiftly to business needs with targeted ad hoc analysis, showcasing exceptional agility and a commitment to delivering impactful results in a dynamic business environment.
@@ -18,7 +18,7 @@ Mar 2020 - Present (Remote)
 - Streamlined critical document preparation and submittal processes, significantly boosting overall productivity. This initiative not only saved time but also enhanced accuracy and efficiency across departments and improved the expected timeline of submittals from one week to multiple submittals completed per day.
 - Trained new team members in the use of SAP and standard operating procedures.
 
-*Environmental Professional* - **Hepaco**
+*Environmental Professional* - **Hepaco**<br>
 Jun 2019 - Feb 2020
 - Advanced compliance and operational strategies through dynamic project tracking and precise data reporting, ensuring adherence to regulatory standards.
 - Led waste management optimization projects, employing data-driven insights to streamline processes and enhance environmental stewardship.
@@ -27,7 +27,7 @@ Jun 2019 - Feb 2020
 - Authored comprehensive reports for environmental cleanup projects, detailing project outcomes, insights, and strategic recommendations to stakeholders.
 - Managed inventory and supply ordering, ensuring the availability of essential materials for environmental projects, contributing to project efficiency and success.
 
-*Receiving Clerk* - **Lidl US**
+*Receiving Clerk* - **Lidl US**<br>
 Mar 2017 - Jun 2019
 - Elevated from Picker to Produce Receiving due to exceptional proficiency with SAP and Excel, enhancing operational workflows and inventory management.
 - Led critical projects on inventory control and warehouse receiving processes, demonstrating strong project management and multitasking skills.
