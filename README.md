@@ -1,11 +1,12 @@
 # Data Scientist
 
 ### Education
-Western Governor's University
-Bachelor's of Science - Data Analysis/Data Management
+Western Governor's University - *Graduated Nov 2023*
+**Bachelor's of Science - Data Analysis/Data Management**
+- Hands-on practical use of SQL, Python, R, and C++ for data management and analytics, providing a solid foundation in programming, database manipulation, and query writing.
 
-Southern New Hampshire University
-Bachelor's of Science - Environmental Science
+Southern New Hampshire University - *Graduated Mar 2019*
+**Bachelor's of Science - Environmental Science**
 Minor - Project Management
 
 ### Work Experience
