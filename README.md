@@ -37,3 +37,12 @@ Mar 2017 - Jun 2019
 - Provided mentorship to colleagues on SAP operations, leveraging my strong communication skills and self-initiated learning strategies to foster team growth and efficiency.
 
 ### Projects
+**WeRateDogs Twitter Data Analysis Project**
+- Performed data wrangling to clean data from social media platforms for analysis. Skills: APIs, Data Wrangling, Python.
+- Analyzed tweet data to identify trends using Python libraries, employing NLP for content insight extraction. Skills: Data Visualization, Natural Language Processing (NLP), Python.
+- Developed visualizations to report findings, providing insights into user behavior and preferences. Skills: Data Analysis, Insight Generation.
+
+**Novel Quality Analysis Project for Nyx AI Studio**
+- Prepared a large dataset for analysis through extensive data wrangling and exploratory data analysis. Skills: Data Science, Data Wrangling.
+- Applied linear regression analysis to explore the relationship between novel popularity and ratings. Skills: Machine Learning Modeling, Scikit-Learn, Linear Regression.
+- Employed statistical tests to evaluate hypotheses, deriving insights for future data collection strategies. Skills: Statistical Analysis, Critical Thinking.
