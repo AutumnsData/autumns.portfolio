@@ -9,6 +9,7 @@ Western Governor's University - *Graduated Nov 2023*
 Southern New Hampshire University - *Graduated Mar 2019*
 - Minor - Project Management
 
+
 ### Work Experience
 **Project Support Data Administrator** - *Kaeser Compressors*<br>
 Mar 2020 - Present (Remote)
@@ -35,6 +36,7 @@ Mar 2017 - Jun 2019
 - Mastered Microsoft Excel to manage delivery lists and track inbound order discrepancies, improving accuracy and efficiency in supply chain operations.
 - Served as a key communication link between supply chain partners and warehouse teams, ensuring rapid resolution of issues and smooth operational flow.
 - Provided mentorship to colleagues on SAP operations, leveraging my strong communication skills and self-initiated learning strategies to foster team growth and efficiency.
+
 
 ### Projects
 **WeRateDogs Twitter Data Analysis Project**
