@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-**Bachelor's of Science - Data Analysis/Data Management**
+**Bachelor's of Science - Data Analysis/Data Management**<br>
 Western Governor's University - *Graduated Nov 2023*
 - Hands-on practical use of SQL, Python, R, and C++ for data management and analytics, providing a solid foundation in programming, database manipulation, and query writing.
 
